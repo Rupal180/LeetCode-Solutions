@@ -1,5 +1,4 @@
 package GFG.Arrays;
-
 /**
  * GeeksForGeeks - Maximum Sum Subarray of Size K
  *

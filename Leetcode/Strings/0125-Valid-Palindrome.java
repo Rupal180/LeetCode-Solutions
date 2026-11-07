@@ -1,3 +1,5 @@
+package Leetcode.Strings;
+
 /*
  * LeetCode #125 - Valid Palindrome
  *
